@@ -4,3 +4,8 @@ h1{
     font-weight: 500;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+p{
+    font-size: 40px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
